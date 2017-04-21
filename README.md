@@ -1,8 +1,8 @@
 # Gatherer-Elysium
 A 100% accurate and complete* Gatherer file for Elysium vanilla WoW realms.
 
-** WARNING
-** This file does NOT go in the Interface\Addons folder.
+**WARNING**
+**This file does NOT go in the Interface\Addons folder.**
 
 ### *This Gatherer database should include the following:
 - All herbs

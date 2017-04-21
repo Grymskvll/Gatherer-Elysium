@@ -4,7 +4,7 @@ A 100% accurate and complete* Gatherer file for Elysium vanilla WoW realms.
 **WARNING
 **This file does NOT go in the Interface\Addons folder.
 
-###*This Gatherer database should include the following:
+### *This Gatherer database should include the following:
 -All herbs
 -All ore nodes
 -All fishing nodes
@@ -13,7 +13,7 @@ A 100% accurate and complete* Gatherer file for Elysium vanilla WoW realms.
 -All Blood of Heroes
 
 
-###Installation:
+### Installation:
 1. Delete (or backup) the following files if they are present:
 ```
 WoW\WTF\Account\YOUR_ACCOUNT_NAME\SavedVariables\Gatherer.lua

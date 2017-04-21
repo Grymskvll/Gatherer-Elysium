@@ -1,16 +1,16 @@
 # Gatherer-Elysium
 A 100% accurate and complete* Gatherer file for Elysium vanilla WoW realms.
 
-**WARNING
-**This file does NOT go in the Interface\Addons folder.
+** WARNING
+** This file does NOT go in the Interface\Addons folder.
 
 ### *This Gatherer database should include the following:
--All herbs
--All ore nodes
--All fishing nodes
--All Felwood corrupted plants
--All solid chests
--All Blood of Heroes
+- All herbs
+- All ore nodes
+- All fishing nodes
+- All Felwood corrupted plants
+- All solid chests
+- All Blood of Heroes
 
 
 ### Installation:
@@ -25,4 +25,8 @@ WoW\WTF\Account\YOUR_ACCOUNT_NAME\SavedVariables\Gatherer.lua.bak
 WoW\WTF\Account\YOUR_ACCOUNT_NAME\SavedVariables\
 ```
 
-3. Enter the game and configure Gatherer's filters. Because of the enormous amount of nodes, Gatherer might cause an interface error if you don't filter some node types.
+3. Enter the game and configure Gatherer's filters. Because of the enormous amount of nodes, Gatherer might cause an interface error if you don't filter some node types.\
+
+### To do:
+- Fix nodes being visible in adjacent zones on the world map
+- Include AV nodes

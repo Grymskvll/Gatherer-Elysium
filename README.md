@@ -1,5 +1,5 @@
 # Gatherer-Elysium
-A 100% accurate and complete* Gatherer file for Elysium vanilla WoW realms.
+A 100% accurate and complete* Gatherer file for Elysium vanilla WoW realms. For a version of Gatherer that fixes Night Dragons and Whipper Roots not appearing, check https://github.com/Grymskvll/Gatherer-FelwoodFix
 
 **WARNING**
 **This file does NOT go in the Interface\Addons folder.**

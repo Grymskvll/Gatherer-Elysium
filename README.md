@@ -1,5 +1,5 @@
 # Gatherer-Elysium
-A 100% accurate and complete* Gatherer file for Elysium vanilla WoW realms. For a version of Gatherer that fixes Night Dragons and Whipper Roots not appearing, check https://github.com/Grymskvll/Gatherer-FelwoodFix
+A 100% accurate and complete* Gatherer file for Elysium vanilla WoW realms. For a version of Gatherer that fixes Night Dragons and Whipper Roots not appearing, check https://github.com/Grymskvll/Gatherer-FelwoodFix. Some nodes only spawn if the current online player count exceeds a value. At the time of this writing, that value is 2500. The low_population branch is available if your realm typically has less players online.
 
 **WARNING**
 **This file does NOT go in the Interface\Addons folder.**
